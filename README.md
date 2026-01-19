@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Alshaimaa Abd Elnaeem  
+# 👋 Hi, I'm Alshaimaa Abdelnaeem  
 ### 🚀 Flutter Developer | Mobile App Engineer  
 
-I'm a passionate **Flutter developer** who loves building beautiful, high-performance cross-platform mobile applications. I enjoy turning ideas into real products and continuously improving my technical skills.
+I'm a passionate **Flutter developer** who loves building modern, scalable, and high-performance mobile applications. I enjoy transforming ideas into real products with clean code and elegant UI.
 
 ---
 
 ## 👩‍💻 About Me  
 - 🎓 Graduate of Faculty of Computers & Information – Assiut University  
-- 📱 Flutter Developer with real-world project experience  
-- 🔥 Passionate about clean architecture & scalable apps  
-- 💡 Interested in UI/UX, performance optimization & best practices  
+- 📱 Flutter Developer with hands-on experience  
+- 🔥 Interested in Clean Architecture & MVVM  
+- 🎯 Focused on UI/UX & performance optimization  
 - 👩‍🏫 Former mentor & instructor at Easy Learn Academy  
 
 ---
@@ -37,12 +37,33 @@ I'm a passionate **Flutter developer** who loves building beautiful, high-perfor
 
 ## 📂 Projects  
 
+### ☕ Dome Cafe (Graduation Project – ITI)  
+**Cafe Management System**  
+- Manage orders, products & categories  
+- Clean UI & organized structure  
+- Built using Flutter  
+🔗 **Repo:**  
+https://github.com/AlshaimaaAbdElnaeem/Domi_cafe  
+
+---
+
+### 💰 Coins Purchase App (Mentorship Graduation Project)  
+**Crypto coins buying application**  
+- Real-time API integration  
+- Clean architecture  
+- State management using Cubit  
+🔗 **Repo:**  
+https://github.com/muhamedsaber/team-9  
+
+---
+
 ### 📌 Book Mart  
 📚 Book browsing app using API  
 - MVVM Architecture  
 - Dio for API handling  
-- Clean & responsive UI  
-🔗 **Repo:** https://github.com/your-username/book-mart  
+- Responsive UI  
+🔗 **Repo:**  
+https://github.com/AlshaimaaAbdElnaeem/book-mart  
 
 ---
 
@@ -51,36 +72,30 @@ I'm a passionate **Flutter developer** who loves building beautiful, high-perfor
 - Firebase backend  
 - Live video using ZegoCloud  
 - Authentication & real-time features  
-🔗 **Repo:** https://github.com/your-username/live-course-app  
+🔗 **Repo:**  
+https://github.com/AlshaimaaAbdElnaeem/live-course-app  
 
 ---
 
 ### 📌 Math Quiz App  
 🧮 Published on Google Play  
-- Supports RTL  
+- RTL support  
 - All math operations  
 - Optimized for all devices  
-🔗 **Repo:** https://github.com/your-username/math-quiz  
-
----
-
-### 📌 Chat Application  
-💬 Firebase Chat App  
-- Auth, Realtime DB, Storage  
-- Image upload & messaging  
-🔗 **Repo:** https://github.com/your-username/chat-app  
+🔗 **link:**  
+  https://play.google.com/store/apps/details?id=com.ahmedhakami.math
 
 ---
 
 ## 📫 Contact Me  
 
-- 📧 Email: **your-email@gmail.com**  
+- 📧 Email: **alshaimaaabdelnaeem@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/alshaimaa-abd-elnaeem-979801229**  
 - 🐙 GitHub: **https://github.com/AlshaimaaAbdElnaeem**  
 
 ---
 
 ## 🌟 Motto  
-> *"Code with passion, build with purpose, and never stop learning."*  
+> *"Build apps that solve real problems and leave a positive impact."*  
 
-✨ Let's build something amazing together!
+✨ Always learning. Always improving.
